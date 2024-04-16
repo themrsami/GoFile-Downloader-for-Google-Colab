@@ -1,4 +1,4 @@
-# GoFile Downloader for Google Colab
+# GoFile To Google Drive Downloader Remotely for Google Collab
 
 This is a Python script for downloading files from [GoFile](https://gofile.io/) on Google Colab. It allows you to easily download files from GoFile to your Google Drive.
 
